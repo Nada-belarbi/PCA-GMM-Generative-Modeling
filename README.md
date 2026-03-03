@@ -39,13 +39,13 @@ The pipeline follows these steps:
 
 ## 📁 Project Structure
 
-├── Work_Session_Data_Generation.ipynb
-├── Data_Generation.pdf
-├── create_gaussian_curves.py
-├── analyze_pca.py
-├── gmm_clustering.py
-├── curve_sampling.py
-├── curve_metrics.py
+- Data_Generation.ipynb
+- Data_Generation.pdf
+- create_gaussian_curves.py
+- analyze_pca.py
+- gmm_clustering.py
+- curve_sampling.py
+- curve_metrics.py
 
 
 
