@@ -38,3 +38,28 @@ The pipeline follows these steps:
 ---
 
 ## 📁 Project Structure
+
+├── Work_Session_Data_Generation.ipynb
+├── Data_Generation.pdf
+├── create_gaussian_curves.py
+├── analyze_pca.py
+├── gmm_clustering.py
+├── curve_sampling.py
+├── curve_metrics.py
+
+
+
+---
+
+## 🛠 Requirements
+
+- Python 3.9+
+- NumPy
+- Matplotlib
+- scikit-learn
+- SciPy
+
+Install dependencies:
+
+```bash
+pip install numpy matplotlib scikit-learn scipy
